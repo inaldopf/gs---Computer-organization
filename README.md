@@ -106,9 +106,8 @@ capsuleguard/
 
 ## 🔗 Links
 
-- 🔴 [Simulação no Tinkercad](#) <!-- substitua pelo link real -->
-- 🎥 [Vídeo no YouTube](#) <!-- substitua pelo link real -->
-- 📄 [Relatório Técnico](#) <!-- substitua pelo link real -->
+- 🔴 [Simulação no Tinkercad](https://www.tinkercad.com/things/bYJ9Ix8977m-fisico-gs-computer-organization?sharecode=undefined)
+- 🎥 [Vídeo no YouTube](http://youtube.com/watch?v=tXlYlk_wyR4) 
 
 ---
 
